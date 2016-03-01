@@ -14,7 +14,15 @@
 	    },
 	    {
 	    	excuse:"My dog burried my car keys.",
-	    	note:""
+	    	note:"	"
+	    },
+		{
+	    	excuse:"It was my aunt's funeral.",
+	    	note:"	"
+	    },
+		{
+	    	excuse:"I had a flat tire.",
+	    	note:"	"
 	    }
 
 	];
